@@ -29,3 +29,9 @@ npm start
     Type your task in the input field.
     Optionally, click the "Add Description" button to include a detailed description for your task.
     Press the "Add Task" button to add it to the list.
+**Expanding a Task**
+    Click on the task to expand and view its description.
+**Editing a Task**
+    Click the "Edit" button next to the task.
+    Modify the task or its description in the provided fields.
+    Press "Save" to update the task.

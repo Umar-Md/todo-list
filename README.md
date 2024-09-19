@@ -22,3 +22,10 @@ To run this application, you need the following installed:
 npm install
 start the application
 npm start
+
+**Usage**
+**Adding a Task**
+
+    Type your task in the input field.
+    Optionally, click the "Add Description" button to include a detailed description for your task.
+    Press the "Add Task" button to add it to the list.

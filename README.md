@@ -35,3 +35,6 @@ npm start
     Click the "Edit" button next to the task.
     Modify the task or its description in the provided fields.
     Press "Save" to update the task.
+**Deleting a Task**
+
+    Click the "Delete" button to remove the task from the list.

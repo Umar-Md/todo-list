@@ -18,3 +18,7 @@ To run this application, you need the following installed:
 
     Node.js
     we are using VSCode as a code editor
+**Install the dependencies**
+npm install
+start the application
+npm start
